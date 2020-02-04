@@ -2,26 +2,26 @@
 #EXTINF:-1,(#1)  - M1
 https://redirect.onlinestream.live/streamredir.m3u8?live=m1&ext=.m3u8
 #EXTINF:-1,(#2)  - M1
-https://streaming.mytvback.com:443/stream/DIjPa7swnShdZdZA6yaCew/1580750898/channel001/stream.m3u8
-#EXTINF:-1,(#3) M1 HD
+https://streaming.mytvback.com:443/stream/1guTKVNd9mGbYUJrN-DHXg/1580826486/channel001/stream.m3u8
+#EXTINF:-1,(#3) 
 http://152.66.115.226:33391/bysid/100
 #EXTINF:-1,(#1)  - Duna
 https://redirect.onlinestream.live/streamredir.m3u8?live=dunalive&ext=.m3u8
 #EXTINF:-1,(#2)  - Duna
-https://streaming.mytvback.com:443/stream/jLKjMbkfp1OLpgUh8esnCQ/1580750881/channel003/stream.m3u8
-#EXTINF:-1,(#3) Duna HD
+https://streaming.mytvback.com:443/stream/PurIXhBZ14nfn6m4gHSxAA/1580826496/channel003/stream.m3u8
+#EXTINF:-1,(#3) 
 http://152.66.115.226:33391/bysid/121
 #EXTINF:-1,(#1)  - Duna World
 https://redirect.onlinestream.live/streamredir.m3u8?live=dunaworldlive&ext=.m3u8
 #EXTINF:-1,(#2)  - Duna World
-https://streaming.mytvback.com:443/stream/7Tf4FIpSbqLhwyjuOLTVIA/1580750888/channel004/stream.m3u8
-#EXTINF:-1,(#3) Duna World
+https://streaming.mytvback.com:443/stream/SzZThVRTCUCp5VA_XzK-6Q/1580826482/channel004/stream.m3u8
+#EXTINF:-1,(#3) 
 http://152.66.115.226:33391/bysid/120
 #EXTINF:-1,(#1)  - M4 Sport élő adás
 https://redirect.onlinestream.live/streamredir.m3u8?live=mtv4live&ext=.m3u8
 #EXTINF:-1,(#2)  - M4 Sport élő adás
-https://streaming.mytvback.com:443/stream/5uhOztirf2-pUqhCelQodQ/1580750886/channel005/stream.m3u8
-#EXTINF:-1,(#3) M4 Sport HD
+https://streaming.mytvback.com:443/stream/JcAwolYdlFfQ7SiFR58J-Q/1580826484/channel005/stream.m3u8
+#EXTINF:-1,(#3) 
 http://152.66.115.226:33391/bysid/101
 #EXTINF:-1,(#1)  - M2
 https://redirect.onlinestream.live/streamredir.m3u8?live=m2&ext=.m3u8
