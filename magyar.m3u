@@ -1,85 +1,146 @@
-#EXTM3U
-#EXTINF:-1,(#1)  - M1
-https://redirect.onlinestream.live/streamredir.m3u8?live=m1&ext=.m3u8
-#EXTINF:-1,(#2)  - M1
-https://streaming.mytvback.com:443/stream/1guTKVNd9mGbYUJrN-DHXg/1580826486/channel001/stream.m3u8
-#EXTINF:-1,(#3) 
-http://152.66.115.226:33391/bysid/100
-#EXTINF:-1,(#1)  - Duna
-https://redirect.onlinestream.live/streamredir.m3u8?live=dunalive&ext=.m3u8
-#EXTINF:-1,(#2)  - Duna
-https://streaming.mytvback.com:443/stream/PurIXhBZ14nfn6m4gHSxAA/1580826496/channel003/stream.m3u8
-#EXTINF:-1,(#3) 
-http://152.66.115.226:33391/bysid/121
-#EXTINF:-1,(#1)  - Duna World
-https://redirect.onlinestream.live/streamredir.m3u8?live=dunaworldlive&ext=.m3u8
-#EXTINF:-1,(#2)  - Duna World
-https://streaming.mytvback.com:443/stream/SzZThVRTCUCp5VA_XzK-6Q/1580826482/channel004/stream.m3u8
-#EXTINF:-1,(#3) 
-http://152.66.115.226:33391/bysid/120
-#EXTINF:-1,(#1)  - M4 Sport élő adás
-https://redirect.onlinestream.live/streamredir.m3u8?live=mtv4live&ext=.m3u8
-#EXTINF:-1,(#2)  - M4 Sport élő adás
-https://streaming.mytvback.com:443/stream/JcAwolYdlFfQ7SiFR58J-Q/1580826484/channel005/stream.m3u8
-#EXTINF:-1,(#3) 
-http://152.66.115.226:33391/bysid/101
-#EXTINF:-1,(#1)  - M2
-https://redirect.onlinestream.live/streamredir.m3u8?live=m2&ext=.m3u8
-#EXTINF:-1,(#2)  - M2
-https://streaming.mytvback.com:443/stream/9DMeR1yOb9eVbeRuxU81uw/1580786894/channel002/stream.m3u8
-#EXTINF:-1,(#3) M2 HD
-http://152.66.115.226:33390/bysid/200
-#EXT-X-STREAM-INF:PROGRAM-ID=1
-https://stream.radioszerver.com:443/m3/00AMyETMwIzM.m3u8
-#EXTINF:-1,(#1)  - M5
-https://redirect.onlinestream.live/streamredir.m3u8?live=m5&ext=.m3u8
-#EXTINF:-1,(#2)  - M5
-https://streaming.mytvback.com:443/stream/ELQHtBMNByvP0BEgL5qb6Q/1580786892/channel006/stream.m3u8
-#EXTINF:-1,(#3) M5 HD
-http://152.66.115.226:33390/bysid/202
-#EXTINF:-1,(#3) TV2
-http://152.66.115.226:33390/bysid/204
-#EXTINF:-1,(#3) RTL Klub
-http://152.66.115.226:33390/bysid/203
+#EXTINF:-1,AMC
+http://94.21.142.213:9981/stream/channelid/875736925
+#EXTINF:-1,AMC
+http://94.21.142.213:9981/stream/channelid/1299351737
+#EXTINF:-1,ATV
+http://94.21.142.213:9981/stream/channelid/863265341
+#EXTINF:-1,ATV
+http://94.21.142.213:9981/stream/channelid/1110443474
+#EXTINF:-1,Comedy Central
+http://94.21.142.213:9981/stream/channelid/879185453
+#EXTINF:-1,Comedy Central
+http://94.21.142.213:9981/stream/channelid/1946432675
+#EXTINF:-1,Cool TV
+http://94.21.142.213:9981/stream/channelid/10555961
+#EXTINF:-1,Cool TV
+http://94.21.142.213:9981/stream/channelid/361956830
+#EXTINF:-1,Cool TV HD
+http://94.21.142.213:9981/stream/channelid/2754725
+#EXTINF:-1,Cool TV HD
+http://94.21.142.213:9981/stream/channelid/1368727817
+#EXTINF:-1,Film Café
+http://94.21.142.213:9981/stream/channelid/1353056810
+#EXTINF:-1,Film Café
+http://94.21.142.213:9981/stream/channelid/1689321130
+#EXTINF:-1,Film+
+http://94.21.142.213:9981/stream/channelid/456349333
+#EXTINF:-1,Film+
+http://94.21.142.213:9981/stream/channelid/1078722348
+#EXTINF:-1,Film+ HD
+http://94.21.142.213:9981/stream/channelid/564577478
+#EXTINF:-1,Film+ HD
+http://94.21.142.213:9981/stream/channelid/1587251002
+#EXTINF:-1,Galaxy4
+http://94.21.142.213:9981/stream/channelid/279480557
+#EXTINF:-1,Galaxy4
+http://94.21.142.213:9981/stream/channelid/1534876791
+#EXTINF:-1,HISTORY HD https://iptv.live
+http://94.21.142.213:9981/stream/channelid/125589699
+#EXTINF:-1,HISTORY HD
+http://94.21.142.213:9981/stream/channelid/326279111
+#EXTINF:-1,Hír TV
+http://94.21.142.213:9981/stream/channelid/74753859
+#EXTINF:-1,Hír TV
+http://94.21.142.213:9981/stream/channelid/360175257
+#EXTINF:-1,Jocky TV
+http://94.21.142.213:9981/stream/channelid/578810660
+#EXTINF:-1,Jocky TV
+http://94.21.142.213:9981/stream/channelid/884491706
+#EXTINF:-1,M4 Sport
+http://94.21.142.213:9981/stream/channelid/1550447753
+#EXTINF:-1,M4 Sport
+http://94.21.142.213:9981/stream/channelid/1894373916
+#EXTINF:-1,M4 Sport HD
+http://94.21.142.213:9981/stream/channelid/1177713683
+#EXTINF:-1,M4 Sport HD
+http://94.21.142.213:9981/stream/channelid/1913072754
+#EXTINF:-1,M5
+http://94.21.142.213:9981/stream/channelid/558366476
+#EXTINF:-1,M5
+http://94.21.142.213:9981/stream/channelid/1257973790
+#EXTINF:-1,M5 HD
+http://94.21.142.213:9981/stream/channelid/570869784
+#EXTINF:-1,M5 HD
+http://94.21.142.213:9981/stream/channelid/1183924290
+#EXTINF:-1,Minimax
+http://94.21.142.213:9981/stream/channelid/54351939
+#EXTINF:-1,Minimax
+http://94.21.142.213:9981/stream/channelid/2046032610
+#EXTINF:-1,Moziverzum
+http://94.21.142.213:9981/stream/channelid/1022036422
+#EXTINF:-1,Moziverzum
+http://94.21.142.213:9981/stream/channelid/1078823945
+#EXTINF:-1,Nick Jr.
+http://94.21.142.213:9981/stream/channelid/726540414
+#EXTINF:-1,Nick Jr.
+http://94.21.142.213:9981/stream/channelid/1484957393
+#EXTINF:-1,RTL Klub
+http://94.21.142.213:9981/stream/channelid/1990337903
+#EXTINF:-1,RTL Klub
+http://94.21.142.213:9981/stream/channelid/2125716833
+#EXTINF:-1,RTL Klub HD
+http://94.21.142.213:9981/stream/channelid/387849330
+#EXTINF:-1,RTL Klub HD
+http://94.21.142.213:9981/stream/channelid/1246712136
+#EXTINF:-1,RTLII HD
+http://94.21.142.213:9981/stream/channelid/804374650
+#EXTINF:-1,RTLII HD
+http://94.21.142.213:9981/stream/channelid/906837996
+#EXTINF:-1,Sony Max
+http://94.21.142.213:9981/stream/channelid/678349480
+#EXTINF:-1,Sony Max
+http://94.21.142.213:9981/stream/channelid/1266146372
+#EXTINF:-1,Sony Movie Channel
+http://94.21.142.213:9981/stream/channelid/1318160829
+#EXTINF:-1,Sony Movie Channel
+http://94.21.142.213:9981/stream/channelid/1513910252
+#EXTINF:-1,Spíler1 TV
+http://94.21.142.213:9981/stream/channelid/410016650
+#EXTINF:-1,Spíler1 TV
+http://94.21.142.213:9981/stream/channelid/604093481
+#EXTINF:-1,Spíler1 TV HD
+http://94.21.142.213:9981/stream/channelid/1657906982
+#EXTINF:-1,Spíler1 TV HD
+http://94.21.142.213:9981/stream/channelid/1737532731
+#EXTINF:-1,Spíler2 TV
+http://94.21.142.213:9981/stream/channelid/990472816
+#EXTINF:-1,Spíler2 TV
+http://94.21.142.213:9981/stream/channelid/2145345578
+#EXTINF:-1,Spíler2 TV HD https://iptv.live
+http://94.21.142.213:9981/stream/channelid/2023099164
+#EXTINF:-1,Spíler2 TV HD
+http://94.21.142.213:9981/stream/channelid/2119730548
+#EXTINF:-1,Super TV2
+http://94.21.142.213:9981/stream/channelid/1619959341
+#EXTINF:-1,Super TV2
+http://94.21.142.213:9981/stream/channelid/1768218787
+#EXTINF:-1,Super TV2 HD
+http://94.21.142.213:9981/stream/channelid/784567397
+#EXTINF:-1,Super TV2 HD
+http://94.21.142.213:9981/stream/channelid/1866804307
+#EXTINF:-1,TV Paprika
+http://94.21.142.213:9981/stream/channelid/1131549093
+#EXTINF:-1,TV Paprika
+http://94.21.142.213:9981/stream/channelid/1275234301
+#EXTINF:-1,TV2
+http://94.21.142.213:9981/stream/channelid/393237638
+#EXTINF:-1,TV2
+http://94.21.142.213:9981/stream/channelid/1762343710
+#EXTINF:-1,TV4
+http://94.21.142.213:9981/stream/channelid/157848934
+#EXTINF:-1,TV4
+http://94.21.142.213:9981/stream/channelid/1508118365
+#EXTINF:-1,Viasat Explore
+http://94.21.142.213:9981/stream/channelid/548337057
+#EXTINF:-1,Viasat Explore
+http://94.21.142.213:9981/stream/channelid/987607822
 #EXTINF:-1,(#1)  - ATV Online Stream
 http://nodes.stream.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1,(#2)  - ATV Online Stream
 http://nodes.stream.atv.hu:80/atvlive/atvstream_1_aac/playlist.m3u8
-#EXTINF:-1,(#3)  - ATV Online Stream
-rtmp://193.68.62.125:1935/atvlive/atvstream_2_aac
-#EXTINF:-1,(#4)  - ATV Online Stream
-rtmp://193.68.62.125:1935/atvlive/atvstream_1_aac
-#EXTINF:-1,(#1)  - Hír TV élő
-https://stream.radioszerver.com:443/hirtv/00AMyETMwIzM.m3u8
-#EXTINF:-1,(#2)  - Hír TV 1 órával késleltetett
-https://stream.radioszerver.com:443/hirtv_delayed/00AMyETMwIzM.m3u8
-#EXTINF:-1,(#3) 
-http://152.66.115.226:33390/bysid/211
-#EXT-X-STREAM-INF:PROGRAM-ID=1
-https://streaming.mytvback.com:443/stream/enK5ltOcv-qn2ij3uLEqwQ/1580786881/channel040/stream.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1
-https://streaming.mytvback.com:443/stream/ovTBIrNJf3G18HuMkRO4Ng/1580786896/channel016/stream.m3u8
-#EXTINF:-1,(#1)  - HD stream
+#EXTINF:-1,(#1)  - FIX HD stream
 https://fixhd.tv:8082/fix/hd.stream/playlist.m3u8
-#EXTINF:-1,(#2)  - SD stream
-https://fixhd.tv:8082/fix/sd.stream/playlist.m3u8
-#EXTINF:-1,(#3)  - HD stream
-http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
-#EXTINF:-1,(#4)  - SD stream
-http://fixhd.tv:8081/fix/sd.stream/playlist.m3u8
-#EXTINF:-1,(#5)  - HD stream
-rtmp://video.fixhd.tv:1935/fix/hd.stream
-#EXTINF:-1,(#6)  - SD stream
-rtmp://video.fixhd.tv:1935/fix/sd.stream
 #EXTINF:-1,(#7)  - FixHD
 https://redirect.onlinestream.live/hbbtv-as.cgi?id=fixtv
-#EXT-X-STREAM-INF:PROGRAM-ID=1
-https://1music.hu:443/1music.m3u8
-#EXTINF:-1,(#7)  - Nat GEO
-https://redirect.onlinestream.live/hbbtv-as.cgi?id=natgeo
-#EXT-X-STREAM-INF:PROGRAM-ID=1
-https://cloudfront44.lexanetwork.com:1442/hlsrelay003/hls/livestream.sdp.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1
-https://streaming.mytvback.com:443/stream/PKhgrB-7PkEtYDPIaLtv5A/1580786887/channel049/stream.m3u8
 #EXTINF:-1,(#7)  - Danio
 rtmp://213.174.8.15:1935/live/danio
