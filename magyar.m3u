@@ -117,6 +117,10 @@ http://stream.streamget.cc:65335/0231/index.m3u8
 http://stream.streamget.cc:65335/0184/index.m3u8
 #EXTINF:-1,Life TV
 http://stream.streamget.cc:65335/0163/index.m3u8
+#EXTINF:-1,Discovery
+http://stream.streamget.cc:65335/0130/index.m3u8
+#EXTINF:-1,TLC
+http://stream.streamget.cc:65335/0132/index.m3u8
 #EXTINF:-1,UA:Перший
 http://saveukraine.only4.tv/0196/video.m3u8?token=eq51iK5a5z
 #EXTINF:-1,Интер HD
