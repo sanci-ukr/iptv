@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1,TV2
-http://stream.streamget.cc:65335/0103/index.m3u8
-#EXTINF:-1,RTL Klub
-http://stream.streamget.cc:65335/0105/index.m3u8
-#EXTINF:-1,M1
-http://stream.streamget.cc:65335/0190/index.m3u8
-#EXTINF:-1,Duna TV
-http://stream.streamget.cc:65335/0119/index.m3u8
 #EXTINF:-1,Duna World
 http://stream.streamget.cc:65335/0120/index.m3u8
-#EXTINF:-1,Super TV2
-http://stream.streamget.cc:65335/0104/index.m3u8
+#EXTINF:-1,M5
+http://stream.streamget.cc:65335/0162/index.m3u8
 #EXTINF:-1,ATV
 http://stream.streamget.cc:65335/0118/index.m3u8
 #EXTINF:-1,Mozi+
@@ -21,6 +13,16 @@ http://stream.streamget.cc:65335/0149/index.m3u8
 http://stream.streamget.cc:65335/0265/index.m3u8
 #EXTINF:-1,Spiler 2
 http://stream.streamget.cc:65335/0147/index.m3u8
+#EXTINF:-1,RTL Klub
+http://stream.streamget.cc:65335/0105/index.m3u8
+#EXTINF:-1,TV2
+http://stream.streamget.cc:65335/0103/index.m3u8
+#EXTINF:-1,Duna TV
+http://stream.streamget.cc:65335/0119/index.m3u8
+#EXTINF:-1,M1
+http://stream.streamget.cc:65335/0190/index.m3u8
+#EXTINF:-1,Super TV2
+http://stream.streamget.cc:65335/0104/index.m3u8
 #EXTINF:-1,RTL Gold
 http://stream.streamget.cc:65335/0152/index.m3u8
 #EXTINF:-1,Moziverzum
@@ -31,8 +33,6 @@ http://stream.streamget.cc:65335/0107/index.m3u8
 http://stream.streamget.cc:65335/0106/index.m3u8
 #EXTINF:-1,M2
 http://stream.streamget.cc:65335/0240/index.m3u8
-#EXTINF:-1,M5
-http://stream.streamget.cc:65335/0162/index.m3u8
 #EXTINF:-1,Cool
 http://stream.streamget.cc:65335/0108/index.m3u8
 #EXTINF:-1,AXN
@@ -195,3 +195,225 @@ http://saveukraine.only4.tv/821/video.m3u8?token=eq51iK5a5z
 http://saveukraine.only4.tv/5515/video.m3u8?token=eq51iK5a5z
 #EXTINF:-1,Niki Kids HD
 http://saveukraine.only4.tv/5516/video.m3u8?token=eq51iK5a5z
+#EXTINF:-1 ,Перший HD
+http://portal.ott.pink/watch/6972/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,1+1 International
+http://149.5.17.34:20041/play/a00s
+#EXTINF:-1 ,2+2 hd
+http://149.5.17.34:20041/play/a06i
+#EXTINF:-1 ,2+2 HD
+http://maxi.goldmaxiptv.com:2086/uzaRCCR8d2/qbkbrswByK/94676
+#EXTINF:-1 ,ICTV
+http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,INTER + HD
+http://149.5.17.34:20041/play/a05v
+#EXTINF:-1 ,Інтер
+http://portal.ott.pink/watch/7316/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Інтер HD
+http://maxi.goldmaxiptv.com:2086/uzaRCCR8d2/qbkbrswByK/94682
+#EXTINF:-1 ,НТН hd
+http://95.67.12.89:9005
+#EXTINF:-1 ,Enter Film HD
+http://149.5.17.34:20041/play/a078
+#EXTINF:-1 ,K1
+http://149.5.17.34:20041/play/a05l
+#EXTINF:-1 ,K1 HD
+http://149.5.17.34:20041/play/a05m
+#EXTINF:-1 ,Bigudi
+http://149.5.17.34:20041/play/a06h
+#EXTINF:-1 ,Квартал ТВ
+http://91.233.215.250:7272/c5otUOm2IubgpDn
+#EXTINF:-1 ,Kino 1
+http://91.233.215.250:7272/i0yRlKi4YlfGtF6
+#EXTINF:-1 ,Наше любиме кіно UA
+http://95.67.12.89:9023
+#EXTINF:-1 ,MEGA
+http://149.5.17.34:20041/play/a05j
+#EXTINF:-1 ,MEGA HD
+http://149.5.17.34:20041/play/a05k
+#EXTINF:-1 ,Трофей
+http://91.233.215.250:7272/LqlrRf78B9OzD2B
+#EXTINF:-1 ,Trofey
+http://149.5.17.34:20041/play/a06n
+#EXTINF:-1 ,Terra
+http://149.5.17.34:20041/play/a06m
+#EXTINF:-1 ,Fauna
+http://149.5.17.34:20041/play/a06k
+#EXTINF:-1 ,Nauka
+http://149.5.17.34:20041/play/a06l
+#EXTINF:-1 ,ПЕРШИЙ АВТОМОБІЛЬНИЙ HD
+http://95.67.12.89:9035
+#EXTINF:-1 ,CARS STARS TV
+http://95.67.12.89:9014
+#EXTINF:-1 ,Масон
+http://portal.ott.pink/watch/117/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,РИБАЛКА
+http://95.67.12.89:9009
+#EXTINF:-1 ,Ізмаіл ТВ
+http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+#EXTINF:-1 ,Еспресо HD
+http://portal.ott.pink/watch/10/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Закон-ТВ HD
+http://portal.ott.pink/watch/7506/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Суспільне Перший HD
+http://portal.ott.pink/watch/6972/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Суспільне Київ HD
+http://portal.ott.pink/watch/7592/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Київ
+http://maxi.goldmaxiptv.com:2086/uzaRCCR8d2/qbkbrswByK/94749
+#EXTINF:-1 ,Правда ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 ,Правда ТУТ HD (Київ)
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 ,ІТ3
+http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
+#EXTINF:-1 ,Круг (Одеса)
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
+#EXTINF:-1 ,Уніaн
+http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Уніaн r
+http://maxi.goldmaxiptv.com:2086/uzaRCCR8d2/qbkbrswByK/94755
+#EXTINF:-1 ,4 канал HD UA
+http://portal.ott.pink/watch/6987/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,5 Канал
+http://portal.ott.pink/watch/7/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,24 Канал
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1 ,Рада
+http://portal.ott.pink/watch/7418/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Армія ТВ HD (UA)
+http://portal.ott.pink/watch/7572/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,FREEДОМ - UATV Channel
+http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,FREEДОМ
+https://cdnua03.hls.tv/178/hls/3ce9832c48b67915e9f2769b2dfbb005/91/stream.m3u8
+#EXTINF:-1 ,Первый Городской (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1 ,Первый Городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
+#EXTINF:-1 ,Правда ТУТ HD (Київ)
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 ,D1
+http://portal.ott.pink/watch/7494/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Прямий
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8 
+#EXTINF:-1 ,Прямий HD
+http://portal.ott.pink/watch/14/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Галичина HD
+http://portal.ott.pink/watch/116/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Надія/N.K.
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1 ,Полтавское ТВ
+http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
+#EXTINF:-1 ,ТІМ Прилуки
+http://194.242.100.24:6666
+#EXTINF:-1 ,Тернопіль 1
+http://185.53.79.12/ternopil1/index.m3u8 
+#EXTINF:-1 ,Тернопiль 1 HD
+http://ott.columbus.te.ua/ternopil1/index.m3u8 
+#EXTINF:-1 ,НТК Коломия
+https://stream.ntktv.ua/s/ntk/ntk.m3u8 
+#EXTINF:-1 ,ТВА tva.org.ua
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 ,ТВА tva.in.ua
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 ,ГІТ (Волинь)
+http://stream.uagit.tv/gittv.m3u8 
+#EXTINF:-1 ,7 канал tva.org.ua
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 ,1 Городский Одеса HD
+http://maxi.goldmaxiptv.com:2086/uzaRCCR8d2/qbkbrswByK/94778
+#EXTINF:-1 ,ТИС-ТВ (Одеса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/playlist.m3u8
+#EXTINF:-1 ,Аверс (Луцьк)
+https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 ,Аверс
+http://portal.ott.pink/watch/356/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,ATR
+http://portal.ott.pink/watch/189/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Bambarbia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1 ,Апостроф TV
+http://portal.ott.pink/watch/7485/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,Дніпро TV HD
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:-1 ,ГРОМАДСЬКЕ ІНТЕРАКТИВНЕ ТЕЛЕБАЧЕННЯ (Луцьк)
+https://stream.uagit.tv/gittv.m3u8 
+#EXTINF:-1 ,Аверс (Луцьк)
+https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 ,Балта ТВ HD
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 ,Думская ТВ
+http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1 ,Глас
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1 ,ТРК Надія - Новий Канал (Первомайский)
+http://178.217.215.57/mob/mystream.m3u8
+#EXTINF:-1 ,Чернівецький Промінь HD
+http://portal.ott.pink/watch/131/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,СК1 (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
+#EXTINF:-1 ,НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 ,ITV (Рівне)
+http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1 ,ITV HD
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 ,ITV
+http://cdn10.live-tv.od.ua:8081/itvrv/720p/playlist.m3u8
+#EXTINF:-1 ,Сфера ТВ
+http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
+#EXTINF:-1 ,Сварожичі ТВ UA HD
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1 ,Сварожичі ТВ
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:-1 ,Сварожичі р
+http://tv.tv-project.com:1935/live/live2/playlist.m3u8
+#EXTINF:-1 ,Pеноме
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1 ,М2
+http://live.m2.tv/hls3/720/stream.m3u8
+#EXTINF:-1 ,UA Music
+http://95.67.12.89:9087
+#EXTINF:-1 ,InRating TV
+https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",XSPORT +
+http://45.143.108.104:80/XSPORT_SD/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",Setanta Sports + UA hd
+http://95.67.12.89:9013
+#EXTINF:-1 group-title="РАДІО",Промінь (UA)
+http://portal.ott.pink/watch/201/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="РАДІО",Avtoradio
+http://cast.radiogroup.com.ua:8000/avtoradio320
+#EXTINF:-1 group-title="РАДІО",Nashe Radio
+http://online.nasheradio.ua/NasheRadio_HD
+#EXTINF:-1 group-title="РАДІО",Наше Радіо
+http://online.nasheradio.ua/NasheRadio
+#EXTINF:-1 group-title="РАДІО",Nashe Radio UktTop100
+http://online.nasheradio.ua/NasheRadio_Ukr_HD
+#EXTINF:-1 group-title="РАДІО",Наше Радіо Live
+http://online.nasheradio.ua/NasheRadio_Live
+#EXTINF:-1 group-title="РАДІО",Радіо Novaline UA
+https://stream.novaline.net.ua/Novaline_320
+#EXTINF:-1 group-title="РАДІО",Kiss FM Ukrainian
+http://online.kissfm.ua/KissFM_Ukr_HD
+#EXTINF:-1 group-title="РАДІО",Радіо ArmyFM
+http://212.26.132.129:8000/ArmyFM
+#EXTINF:-1 group-title="РАДІО",Львівська Хвиля?
+http://onair.lviv.fm:8000/lviv.fm
+#EXTINF:-1 group-title="РАДІО",РАДІО КАЗКА
+http://radio.nrcu.gov.ua:8000/kazka-mp3
+#EXTINF:-1 group-title="РАДІО",Тіса
+http://radio.nrcu.gov.ua:8000/tysafm-mp3
+#EXTINF:-1 group-title="РАДІО",Ух радіо
+http://193.169.80.7:8001/efirhq
+#EXTINF:-1 group-title="РАДІО",Hope FM - Christian youth online radio
+http://185.168.128.79:7777/hope.fm/256
+#EXTINF:-1 group-title="РАДІО",Back to the 80s
+http://prmstrm.1.fm:8000/back280s
+#EXTINF:-1 group-title="РАДІО",90s
+http://prmstrm.1.fm:8000/90s
+#EXTINF:-1 group-title="РАДІО",80-90s hits
+http://prmstrm.1.fm:8000/80s_90s
+#EXTINF:-1 group-title="РАДІО",60s_70s
+http://prmstrm.1.fm:8000/60s_70s
