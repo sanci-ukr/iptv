@@ -1,36 +1,44 @@
 #EXTM3U
 #EXTINF:-1,Duna World
-http://stream.streamget.cc:65335/0120/index.m3u8
+http://stream.streamget.cc:65335/0120/index.m3u8 
 #EXTINF:-1,M5
 http://stream.streamget.cc:65335/0162/index.m3u8
 #EXTINF:-1,ATV
 http://stream.streamget.cc:65335/0118/index.m3u8
-#EXTINF:-1,Mozi+
-http://stream.streamget.cc:65335/0215/index.m3u8
 #EXTINF:-1,M4 Sport
 http://stream.streamget.cc:65335/0149/index.m3u8
-#EXTINF:-1,Arena4
+#EXTINF:-1,Sport 1
+http://stream.streamget.cc:65335/0116/index.m3u8 
+#EXTINF:-1,Sport 2
+http://stream.streamget.cc:65335/0131/index.m3u8
+#EXTINF:-1,Arena 4
 http://stream.streamget.cc:65335/0265/index.m3u8
+#EXTINF:-1,Match 4
+http://stream.streamget.cc:65335/0061/index.m3u8
+#EXTINF:-1,Spiler 1
+http://stream.streamget.cc:65335/0135/index.m3u8
 #EXTINF:-1,Spiler 2
 http://stream.streamget.cc:65335/0147/index.m3u8
-#EXTINF:-1,RTL Klub
+#EXTINF:-1,Mozi+
+http://stream.streamget.cc:65335/0215/index.m3u8
+#EXTINF:-1,Moziverzum
+http://stream.streamget.cc:65335/0127/index.m3u8
+#EXTINF:-1,RTL
 http://stream.streamget.cc:65335/0105/index.m3u8
 #EXTINF:-1,TV2
 http://stream.streamget.cc:65335/0103/index.m3u8
+#EXTINF:-1,Super TV2
+http://stream.streamget.cc:65335/0104/index.m3u8
+#EXTINF:-1,RTL 2
+http://stream.streamget.cc:65335/0106/index.m3u8
+#EXTINF:-1,RTL 3
+http://stream.streamget.cc:65335/0107/index.m3u8
 #EXTINF:-1,Duna TV
 http://stream.streamget.cc:65335/0119/index.m3u8
 #EXTINF:-1,M1
 http://stream.streamget.cc:65335/0190/index.m3u8
-#EXTINF:-1,Super TV2
-http://stream.streamget.cc:65335/0104/index.m3u8
 #EXTINF:-1,RTL Gold
 http://stream.streamget.cc:65335/0152/index.m3u8
-#EXTINF:-1,Moziverzum
-http://stream.streamget.cc:65335/0110/index.m3u8
-#EXTINF:-1,RTL+
-http://stream.streamget.cc:65335/0107/index.m3u8
-#EXTINF:-1,RTL 2
-http://stream.streamget.cc:65335/0106/index.m3u8
 #EXTINF:-1,M2
 http://stream.streamget.cc:65335/0240/index.m3u8
 #EXTINF:-1,Cool
@@ -41,7 +49,7 @@ http://stream.streamget.cc:65335/0206/index.m3u8
 http://stream.streamget.cc:65335/0088/index.m3u8
 #EXTINF:-1,Viasat6
 http://stream.streamget.cc:65335/0089/index.m3u8
-#EXTINF:-1,Film+
+#EXTINF:-1,Film+ HD
 http://stream.streamget.cc:65335/0111/index.m3u8
 #EXTINF:-1,Film Cafe
 http://stream.streamget.cc:65335/0114/index.m3u8
@@ -49,22 +57,26 @@ http://stream.streamget.cc:65335/0114/index.m3u8
 http://stream.streamget.cc:65335/0115/index.m3u8
 #EXTINF:-1,Filmbox Family
 http://stream.streamget.cc:65335/0113/index.m3u8
-#EXTINF:-1,Viasat 2
-http://stream.streamget.cc:65335/0207/index.m3u8
-#EXTINF:-1,Viasat Film
-http://stream.streamget.cc:65335/0208/index.m3u8
 #EXTINF:-1,AMC
 http://stream.streamget.cc:65335/0122/index.m3u8
 #EXTINF:-1,CBS Reality
 http://stream.streamget.cc:65335/0153/index.m3u8
 #EXTINF:-1,FEM3
 http://stream.streamget.cc:65335/0172/index.m3u8
+#EXTINF:-1,Jocky TV
+http://stream.streamget.cc:65335/0140/index.m3u8 
 #EXTINF:-1,Sorozat+
 http://stream.streamget.cc:65335/0121/index.m3u8
 #EXTINF:-1,HBO
 http://stream.streamget.cc:65335/0148/index.m3u8
 #EXTINF:-1,HBO2
 http://stream.streamget.cc:65335/0117/index.m3u8
+#EXTINF:-1,HBO3
+http://stream.streamget.cc:65335/0060/index.m3u8
+#EXTINF:-1,Cinemax
+http://stream.streamget.cc:65335/0133/index.m3u8
+#EXTINF:-1,Cinemax2
+http://stream.streamget.cc:65335/0145/index.m3u8
 #EXTINF:-1,TV2 Comedy
 http://stream.streamget.cc:65335/0224/index.m3u8
 #EXTINF:-1,Izaura TV
@@ -89,24 +101,20 @@ http://stream.streamget.cc:65335/0210/index.m3u8
 http://stream.streamget.cc:65335/0169/index.m3u8
 #EXTINF:-1,Nat Geo Wild
 http://stream.streamget.cc:65335/0167/index.m3u8
-#EXTINF:-1,Boomerang
+#EXTINF:-1,Cartoonito
 http://stream.streamget.cc:65335/0144/index.m3u8
 #EXTINF:-1,TV2 Kids
 http://stream.streamget.cc:65335/0267/index.m3u8
 #EXTINF:-1,Cartoon Network
-http://stream.streamget.cc:65335/0214/index.m3u8
-#EXTINF:-1,Cinemax
-http://stream.streamget.cc:65335/0133/index.m3u8
-#EXTINF:-1,Cinemax2
-http://stream.streamget.cc:65335/0145/index.m3u8
+http://stream.streamget.cc:65335/0214/index.m3u8 
+#EXTINF:-1,Nick JR
+http://stream.streamget.cc:65335/0166/index.m3u8 
 #EXTINF:-1,Minimax
 http://stream.streamget.cc:65335/0146/index.m3u8
 #EXTINF:-1,Disney
 http://stream.streamget.cc:65335/0143/index.m3u8
 #EXTINF:-1,JimJam
 http://stream.streamget.cc:65335/0142/index.m3u8
-#EXTINF:-1,Extreme Sports Channel
-http://stream.streamget.cc:65335/0127/index.m3u8
 #EXTINF:-1,Fishing & Hunting
 http://stream.streamget.cc:65335/0109/index.m3u8
 #EXTINF:-1,Muzsika TV
@@ -301,8 +309,6 @@ http://95.67.21.100/hls/prm_ua_hi/index.m3u8
 http://portal.ott.pink/watch/14/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 ,Галичина HD
 http://portal.ott.pink/watch/116/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 ,Надія/N.K.
-http://nadiya.home-net.com.ua/mob/mystream.m3u8
 #EXTINF:-1 ,Полтавское ТВ
 http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
 #EXTINF:-1 ,ТІМ Прилуки
@@ -401,8 +407,6 @@ http://online.kissfm.ua/KissFM_Ukr_HD
 http://212.26.132.129:8000/ArmyFM
 #EXTINF:-1 group-title="РАДІО",Львівська Хвиля?
 http://onair.lviv.fm:8000/lviv.fm
-#EXTINF:-1 group-title="РАДІО",РАДІО КАЗКА
-http://radio.nrcu.gov.ua:8000/kazka-mp3
 #EXTINF:-1 group-title="РАДІО",Тіса
 http://radio.nrcu.gov.ua:8000/tysafm-mp3
 #EXTINF:-1 group-title="РАДІО",Ух радіо
